@@ -16,7 +16,6 @@
 
 - **HTML5**: Structure and content.
 - **CSS3**: Styling and layout.
-- **JavaScript**: Interactive elements and functionality.
 ## Home Page
 ![Homepage](images/homepage.png)
 
